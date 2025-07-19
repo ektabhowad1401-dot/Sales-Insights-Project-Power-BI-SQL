@@ -1,6 +1,6 @@
 # 🧾 Sales Insights Project | Power BI & SQL
 
-**Tools Used:** SQL Server, Power BI, Excel  
+**Tools Used:** SQL Server, Power BI
 **Skills Applied:** Data Cleaning, Data Modeling, DAX, ETL, Dashboard Design, Business Analysis
 
 ## 📌 Project Overview
@@ -27,7 +27,6 @@ This project simulates a real-world sales dashboard for a retail company. It inc
 ## 🗂️ Project Structure
 - `SQL Queries/` – Contains raw and cleaned SQL scripts
 - `Power BI/` – Contains the .pbix file
-- `Data/` – Sample Excel or CSV files used for the project
 
 ## 📬 Contact
 **Ekta Bhowad**  
