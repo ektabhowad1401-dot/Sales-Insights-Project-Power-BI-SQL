@@ -28,11 +28,6 @@ This project simulates a real-world sales dashboard for a retail company. It inc
 - `Power BI/` – Contains the .pbix file
 - `Data/` – Sample Excel or CSV files used for the project
 
-## 🚀 How to Run the Project
-1. Clone the repo
-2. Open the `.pbix` file in Power BI Desktop
-3. Review and modify SQL or data sources if needed
-
 ## 📬 Contact
 **Ekta Bhowad**  
  Email: ektabhowad1401@gmail.com
