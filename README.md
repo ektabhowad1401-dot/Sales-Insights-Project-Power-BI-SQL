@@ -20,7 +20,7 @@ This project simulates a real-world sales dashboard for a retail company. It inc
   - Profitability analysis and sales targets vs. actuals
 - Enabled dynamic filtering and drill-down features for better user interactivity.
 
-## 📊 Sample Dashboard
+## 📊Dashboard
 <img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/72451897-aea8-4d75-9e15-6373a8dd25d7" />
 
 
